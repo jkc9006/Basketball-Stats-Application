@@ -9,5 +9,5 @@ This project aims to create a real-time basketball statistics application for a 
 * User Limit: The application is designed to handle a maximum of 100 users simultaneously to ensure smooth and responsive performance.
 
 ## Technologies Used
-Programming Language: Python
-Frameworks: NumPy, Pandas, Matplotlib
+* Programming Language: Python
+* Frameworks: NumPy, Pandas, Matplotlib
